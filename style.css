@@ -1,0 +1,14 @@
+body{
+    background-color: brown;
+}
+table{
+    column-fill: auto;
+    column-gap: normal;
+    border: black;
+    border-color: black;
+}
+.container{
+    border-radius: 40px;
+    image-orientation: initial;
+    
+}
